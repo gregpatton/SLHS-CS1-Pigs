@@ -1,4 +1,4 @@
-# SLHS-CS1-Pigs
+# pass-the-pigs
 
 The Game of Pig is a classic game played with a 6 sided die. In the game a player rolls the die. If they roll a 2 through 6, they add that score to their round score, but if they roll a 1, their round is over and their round score resets to zero.
 
